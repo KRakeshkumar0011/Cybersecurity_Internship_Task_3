@@ -70,3 +70,5 @@ This guide provides step-by-step instructions to **install**, **configure**, and
 ---
 
 ## Result
+
+(https://github.com/KRakeshkumar0011/Cybersecurity_Internship_Task_3/blob/main/Result.png)[Result of scan]
