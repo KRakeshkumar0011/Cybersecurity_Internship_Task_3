@@ -75,6 +75,17 @@ This guide provides step-by-step instructions to **install**, **configure**, and
 
 ---
 
-## Reports of the scan
+## Recommendations
 
-1. 
+* **Apply system updates** immediately.
+* **Disable outdated protocols** (e.g., SMBv1).
+* **Replace self-signed certificates**.
+* **Limit open ports** and unused services.
+* **Schedule periodic scans**.
+
+---
+
+## Conclusions
+
+
+
