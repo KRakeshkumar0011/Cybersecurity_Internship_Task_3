@@ -1,7 +1,6 @@
 # Cybersecurity_Internship_Task_3
- Perform a Basic Vulnerability Scan on Your PC.
 
-# 🛡️ Perform a Basic Vulnerability Scan on Your PC using Nessus (Windows)
+ Perform a Basic Vulnerability Scan on Your PC using Nessus (Windows)
 
 ## 📋 Overview
 
