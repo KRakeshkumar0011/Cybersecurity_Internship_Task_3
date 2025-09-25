@@ -68,3 +68,5 @@ This guide provides step-by-step instructions to **install**, **configure**, and
    * Export the report (HTML, PDF, CSV) if needed.
 
 ---
+
+## Result
