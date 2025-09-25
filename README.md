@@ -87,5 +87,5 @@ This guide provides step-by-step instructions to **install**, **configure**, and
 
 ## Conclusions
 
-
+The vulnerability scan identified several medium to high-severity vulnerabilities that could potentially be exploited. Immediate actions should be taken to mitigate critical findings, particularly related to legacy protocols and unsecured services. Regular vulnerability scanning and system hardening practices are recommended for maintaining security posture.
 
